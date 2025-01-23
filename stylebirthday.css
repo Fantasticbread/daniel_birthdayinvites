@@ -1,0 +1,107 @@
+body {
+    background: linear-gradient(to bottom, #ffecd2, #fcb69f);
+    font-family: 'Verdana', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 2.5em;
+    text-shadow: 2px 2px #ffcc99;
+}
+.btn-container {
+    text-align: center;
+    margin: 30px 0;
+}
+.btn {
+    display: inline-block;
+    background-color: #ffcc00;
+    color: white;
+    text-decoration:none;
+    padding: 12px 25px;
+    font-size: 1rem;
+    margin: 10px;
+    border-radius: 30px;
+    font-weight: bold;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.2s ease;
+}
+.btn:hover {
+    background-color: #ff9900;
+}
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 90%;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+.details {
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 15px;
+    width: 80%;
+    max-width: 600px;
+    margin: 20px auto;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+.details p {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #ff5733;
+}
+footer {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 0.9em;
+    color: #666;
+}
+.nav-container {
+    text-align: center;
+    margin: 20px 0;
+}
+.nav-link {
+    display: inline-block;
+    background-color: #ffcc00;
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    font-size: 1rem;
+    margin: 10px;
+    border-radius: 30px;
+    font-weight: bold;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.2s ease;
+}
+.white{
+    color: whitesmoke;
+}
+.snipermachinegun{
+    height:30cap;
+     width:50cap;
+}
+.cookies{
+    height:30cap;
+     width:20cap;
+}
+.cookies1{
+    height:30cap;
+     width:20cap;
+}
+.habibimen{
+        height:30cap;
+        width: 20cap;
+}
+.habibiwomen{
+         height:30cap;
+        width: 20cap;
+}
+p{
+    text-align: center;
+}
